@@ -49,7 +49,7 @@
         <kafka.version>8.1.0-ce</kafka.version>
         <confluent.version>8.1.0</confluent.version>
         <avro.version>1.12.1</avro.version>
-        <junit-juniper.version>6.0.1</junit-juniper.version>
+        <junit-juniper.version>6.0.2</junit-juniper.version>
         <logback.version>1.5.27</logback.version>
         <wiremock.version>3.13.1</wiremock.version>
         <shade.prefix>cricket.jmoore</shade.prefix>
