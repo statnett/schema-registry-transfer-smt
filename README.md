@@ -120,6 +120,10 @@ transforms.TopicRename.replacement=replica.$1
 transforms.AvroSchemaTransfer.type=...
 ```
 
+## A note on Renovate
+
+Using the organizational Renovate config, where `renovate.json5` is usually located under the `.github/` directory, Renovate was not able to onboard this project. As it is a fork, `"forkProcessing": "enabled"` must be added to the configuration. Furthermore, the config file must be located in the root directory in plain JSON format, as stated in [this renovate discussion](https://github.com/renovatebot/renovate/discussions/21020).
+
 <!-- Links -->
 
 - [smt]: https://docs.confluent.io/current/connect/concepts.html#connect-transforms
