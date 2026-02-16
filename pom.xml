@@ -50,7 +50,7 @@
         <confluent.version>8.1.1</confluent.version>
         <avro.version>1.12.1</avro.version>
         <junit-juniper.version>6.0.3</junit-juniper.version>
-        <logback.version>1.5.31</logback.version>
+        <logback.version>1.5.32</logback.version>
         <wiremock.version>3.13.2</wiremock.version>
         <shade.prefix>cricket.jmoore</shade.prefix>
     </properties>
