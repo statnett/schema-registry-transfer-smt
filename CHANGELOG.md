@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.3.5](https://github.com/statnett/schema-registry-transfer-smt/compare/v0.3.4...v0.3.5) (2026-05-15)
+
+
+### Bug Fixes
+
+* **deps:** update confluent.version to v8.2.1 ([#63](https://github.com/statnett/schema-registry-transfer-smt/issues/63)) ([d3d9e1d](https://github.com/statnett/schema-registry-transfer-smt/commit/d3d9e1d88588f936fb9103f7adae679fa5f2df84))
+* **deps:** update kafka.version to v8.2.1-ce ([#64](https://github.com/statnett/schema-registry-transfer-smt/issues/64)) ([80c9061](https://github.com/statnett/schema-registry-transfer-smt/commit/80c906113475a434dce3a45a88df759e273474f7))
+* **deps:** update slf4j monorepo to v2.0.18 ([#61](https://github.com/statnett/schema-registry-transfer-smt/issues/61)) ([b01ef31](https://github.com/statnett/schema-registry-transfer-smt/commit/b01ef312f617e39f8ae4c309673dec46c1e46e48))
+
 ## [0.3.4](https://github.com/statnett/schema-registry-transfer-smt/compare/v0.3.3...v0.3.4) (2026-03-27)
 
 
