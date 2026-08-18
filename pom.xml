@@ -53,6 +53,7 @@
         <logback.version>1.6.3</logback.version>
         <wiremock.version>3.13.2</wiremock.version>
         <shade.prefix>cricket.jmoore</shade.prefix>
+        <jackson-databind.version>3.2.2</jackson-databind.version>
     </properties>
 
     <dependencies>
@@ -134,6 +135,13 @@
             <groupId>org.wiremock</groupId>
             <artifactId>wiremock</artifactId>
             <version>${wiremock.version}</version>
+            <scope>test</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>tools.jackson.core</groupId>
+            <artifactId>jackson-databind</artifactId>
+            <version>${jackson-databind.version}</version>
             <scope>test</scope>
         </dependency>
     </dependencies>
