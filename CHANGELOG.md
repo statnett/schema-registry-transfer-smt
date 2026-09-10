@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.8](https://github.com/statnett/schema-registry-transfer-smt/compare/v0.3.7...v0.3.8) (2026-09-10)
+
+
+### Bug Fixes
+
+* **deps:** update slf4j monorepo to v2.0.19 ([#109](https://github.com/statnett/schema-registry-transfer-smt/issues/109)) ([0199af6](https://github.com/statnett/schema-registry-transfer-smt/commit/0199af62e046fc56e891cc572181da0053d68aa7))
+
 ## [0.3.7](https://github.com/statnett/schema-registry-transfer-smt/compare/v0.3.6...v0.3.7) (2026-08-08)
 
 
