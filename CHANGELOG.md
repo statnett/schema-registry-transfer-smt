@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.3.8](https://github.com/statnett/schema-registry-transfer-smt/compare/v0.3.7...v0.3.8) (2026-10-15)
+
+
+### Bug Fixes
+
+* **deps:** update confluent.version to v8.3.2 ([#114](https://github.com/statnett/schema-registry-transfer-smt/issues/114)) ([609dfea](https://github.com/statnett/schema-registry-transfer-smt/commit/609dfea74a044e242be063c6bbb0ad933ba61713))
+* **deps:** update dependency com.fasterxml.jackson:jackson-bom to v2.22.3 ([#121](https://github.com/statnett/schema-registry-transfer-smt/issues/121)) ([169f1a7](https://github.com/statnett/schema-registry-transfer-smt/commit/169f1a7a92a1abda7ba03527ab90d5c7e4d00aa1))
+* **deps:** update dependency org.apache.avro:avro to v1.12.2 ([#105](https://github.com/statnett/schema-registry-transfer-smt/issues/105)) ([38ec383](https://github.com/statnett/schema-registry-transfer-smt/commit/38ec383f14620fc0bf57de284c447885d690eb6e))
+* **deps:** update kafka.version to v8.3.2-ce ([#115](https://github.com/statnett/schema-registry-transfer-smt/issues/115)) ([64faf97](https://github.com/statnett/schema-registry-transfer-smt/commit/64faf971c7e1e2dea0e84c2048c4910cf75490c6))
+* **deps:** update slf4j monorepo to v2.0.19 ([#109](https://github.com/statnett/schema-registry-transfer-smt/issues/109)) ([0199af6](https://github.com/statnett/schema-registry-transfer-smt/commit/0199af62e046fc56e891cc572181da0053d68aa7))
+* **deps:** update slf4j monorepo to v2.0.20 ([#116](https://github.com/statnett/schema-registry-transfer-smt/issues/116)) ([f278335](https://github.com/statnett/schema-registry-transfer-smt/commit/f2783357bfa69414cf5183e9585559b47919210d))
+* take control of the com.fasterxml.jackson version ([#120](https://github.com/statnett/schema-registry-transfer-smt/issues/120)) ([4272534](https://github.com/statnett/schema-registry-transfer-smt/commit/4272534a32ec10199982b748222b683bd4a6fffa))
+
 ## [0.3.7](https://github.com/statnett/schema-registry-transfer-smt/compare/v0.3.6...v0.3.7) (2026-08-08)
 
 
