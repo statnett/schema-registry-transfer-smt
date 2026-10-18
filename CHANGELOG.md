@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.9](https://github.com/statnett/schema-registry-transfer-smt/compare/v0.3.8...v0.3.9) (2026-10-18)
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.fasterxml.jackson:jackson-bom to v2.22.4 ([#123](https://github.com/statnett/schema-registry-transfer-smt/issues/123)) ([1c8b336](https://github.com/statnett/schema-registry-transfer-smt/commit/1c8b336dce063a36eedb147ba53389628cab3382))
+
 ## [0.3.8](https://github.com/statnett/schema-registry-transfer-smt/compare/v0.3.7...v0.3.8) (2026-10-15)
 
 
