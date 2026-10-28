@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.3.10](https://github.com/statnett/schema-registry-transfer-smt/compare/v0.3.9...v0.3.10) (2026-10-28)
+
+
+### Bug Fixes
+
+* **deps:** update confluent.version to v8.4.0 ([#128](https://github.com/statnett/schema-registry-transfer-smt/issues/128)) ([ed9eabf](https://github.com/statnett/schema-registry-transfer-smt/commit/ed9eabfcdc078c0af492d9ab47a81271a48561d4))
+* **deps:** update kafka.version to v8.4.0-ce ([#129](https://github.com/statnett/schema-registry-transfer-smt/issues/129)) ([9aa6d26](https://github.com/statnett/schema-registry-transfer-smt/commit/9aa6d268921c9dd677d6d70fa1b4093509cf5df1))
+
 ## [0.3.9](https://github.com/statnett/schema-registry-transfer-smt/compare/v0.3.8...v0.3.9) (2026-10-18)
 
 
