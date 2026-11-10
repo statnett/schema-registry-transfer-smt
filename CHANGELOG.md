@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.3.11](https://github.com/statnett/schema-registry-transfer-smt/compare/v0.3.10...v0.3.11) (2026-11-10)
+
+
+### Bug Fixes
+
+* **deps:** update confluent.version to v8.4.1 ([#137](https://github.com/statnett/schema-registry-transfer-smt/issues/137)) ([2044dd0](https://github.com/statnett/schema-registry-transfer-smt/commit/2044dd0810f2c7cd4a50496964cff6f1aaea8498))
+* **deps:** update dependency com.fasterxml.jackson:jackson-bom to v2.23.0 ([#136](https://github.com/statnett/schema-registry-transfer-smt/issues/136)) ([2a72a29](https://github.com/statnett/schema-registry-transfer-smt/commit/2a72a29b141d47278370ac301e25f34496ff13fa))
+* **deps:** update kafka.version to v8.4.1-ce ([#138](https://github.com/statnett/schema-registry-transfer-smt/issues/138)) ([d461248](https://github.com/statnett/schema-registry-transfer-smt/commit/d46124852f7c5ab43fd54c01e0d9682cd9435254))
+
 ## [0.3.10](https://github.com/statnett/schema-registry-transfer-smt/compare/v0.3.9...v0.3.10) (2026-10-28)
 
 
