@@ -29,11 +29,6 @@
         </developer>
     </developers>
 
-    <scm>
-        <developerConnection>scm:git:git@gitlab.statnett.no:kafka/sandbox/schema-registry-transfer-smt.git</developerConnection>
-        <tag>HEAD</tag>
-    </scm>
-
     <repositories>
         <repository>
             <id>confluent</id>
